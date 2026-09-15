@@ -253,7 +253,7 @@ export default function RAGDemoPage() {
                   <strong className="text-red-400 font-medium">No Document Uploaded</strong>
                 )}
               </span>
-              <span>Model: Claude-3-Haiku</span>
+              <span>Model: Claude Haiku 4.5</span>
             </div>
 
             <div className="flex-1 overflow-y-auto space-y-4 pr-2">
